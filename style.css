@@ -1,0 +1,14 @@
+.My-style {
+    background-color: #9376E0;
+    color: #73BBC9;
+    border: solid #FFC26F;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: normal;
+    font-weight: 200;
+}
+
+#My-id {
+    background-color: #F6FFA6;
+}
